@@ -1,0 +1,22 @@
+[
+  {
+    "name": "admin_stats",
+    "file": "src/commands/admin_stats.js"
+  },
+  {
+    "name": "help",
+    "file": "src/commands/help.js"
+  },
+  {
+    "name": "reset",
+    "file": "src/commands/reset.js"
+  },
+  {
+    "name": "start",
+    "file": "src/commands/start.js"
+  },
+  {
+    "name": "status",
+    "file": "src/commands/status.js"
+  }
+]
